@@ -1,4 +1,7 @@
 # Leveraging Python for Spatial Data Science
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+
 workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Science Bootcamp 2023, Washington D.C
 
 
