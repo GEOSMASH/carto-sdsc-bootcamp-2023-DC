@@ -21,7 +21,16 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 
 ---
 
+### Follow along on Google Colab or binder (recommended)
+
+
+#### Binder 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+
+
 ### Follow along on your own machine
+
+Might take some time setting up. 
 
 - make sure you have anaconda installed
     - we recommend the [miniforge distribution](https://github.com/conda-forge/miniforge)
@@ -32,16 +41,8 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 - `conda activate sdsc23`
 - `jupyter lab`
 
-### Follow along in the cloud
-
-remember that your cloud resources will be limited so not everything may work (or work quickly)
-
-#### colab
 
 
-#### Binder 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
----
 
 
