@@ -22,7 +22,16 @@ Workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 ---
 
 ## Schedule
-- 
+1. Presentation - *Leveraging Python for Spatial Data Science*
+2. Workshop
+   - Geographical vs Projected Coordinate Systems
+   - POIs in D.C
+   - Hotspot Analysis
+   - Walkshed of Metro Stations in D.C
+   - NDVI of Walksheds
+   - Practical Application of Folium
+   - Spatial Weights
+   - Exercises
 
 
 ---
