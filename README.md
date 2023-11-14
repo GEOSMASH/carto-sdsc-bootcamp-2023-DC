@@ -28,7 +28,7 @@ Workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
    - POIs in D.C
    - Hotspot Analysis
    - Walkshed of Metro Stations in D.C
-   - NDVI of Walksheds
+   - NDVI of Walksheds in D.C
    - Practical Application of Folium
    - Spatial Weights
    - Exercises
