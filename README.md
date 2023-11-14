@@ -37,7 +37,7 @@ Workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 
 ### Follow along on your own machine
 
-Might take some time setting up. 
+This might take some time setting up. 
 
 - make sure you have anaconda installed
     - we recommend the [miniforge distribution](https://github.com/conda-forge/miniforge)
