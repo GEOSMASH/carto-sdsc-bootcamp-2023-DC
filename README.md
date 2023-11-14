@@ -8,6 +8,10 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 <p align="center">
 <img height=380 src='img/spatial_ecosystem.png' >
 </p>
+<p align="center">
+    Source:
+<a href="https://carto.com/what-is-spatial-data-science#:~:text=What%20skills%20%26%20technologies%20are%20used%20in%20Spatial%20Data%20Science%3F"> Carto <a/>
+</p>
 
 ### Instructor
 
