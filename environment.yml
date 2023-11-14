@@ -1,4 +1,4 @@
-name: myenv
+name: sdsc23
 channels:
   - defaults
   - conda-forge
