@@ -1,0 +1,19 @@
+name: myenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - osmnx
+  - networkx
+  - shapely
+  - alphashape
+  - rasterio
+  - rasterstats
+  - pysal
+  - esda
+  - splot
+  - folium
+  - contextily
+prefix: /opt/anaconda3/envs/myenv
+
