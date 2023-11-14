@@ -43,8 +43,7 @@ Might take some time setting up.
     - we recommend the [miniforge distribution](https://github.com/conda-forge/miniforge)
 - ` git clone https://github.com/GEOSMASH/carto-sdsc-bootcamp-2023-DC`
 - `cd carto-sdsc-bootcamp-2023-DC`
-- if you dont have mamba, run `conda install mamba -y`
-- `make environment` or `mamba env create -n sdsc23`
+- `conda env create -f environment.yml`
 - `conda activate sdsc23`
 - `jupyter lab`
 
