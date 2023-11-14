@@ -1,12 +1,18 @@
 # Leveraging Python for Spatial Data Science
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15fN9ftEmZO__IKczAThKNC1w8sX5nF55#scrollTo=ru4cNvvjaXKz)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)  
 
-workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Science Bootcamp 2023, Washington D.C
+
+Workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Science Bootcamp 2023, Washington D.C
 
 
 <p align="center">
 <img height=380 src='img/spatial_ecosystem.png' >
+</p>
+<p align="center">
+    Source:
+<a href="https://carto.com/what-is-spatial-data-science#:~:text=What%20skills%20%26%20technologies%20are%20used%20in%20Spatial%20Data%20Science%3F"> Carto <a/>
 </p>
 
 ### Instructor
@@ -21,7 +27,17 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 
 ---
 
+### Follow along on Google Colab or binder (recommended)
+#### Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15fN9ftEmZO__IKczAThKNC1w8sX5nF55#scrollTo=ru4cNvvjaXKz)
+
+#### Binder 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+
+
 ### Follow along on your own machine
+
+Might take some time setting up. 
 
 - make sure you have anaconda installed
     - we recommend the [miniforge distribution](https://github.com/conda-forge/miniforge)
@@ -32,16 +48,8 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 - `conda activate sdsc23`
 - `jupyter lab`
 
-### Follow along in the cloud
-
-remember that your cloud resources will be limited so not everything may work (or work quickly)
-
-#### colab
 
 
-#### Binder 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
----
 
 
