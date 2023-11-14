@@ -1,10 +1,10 @@
 # Leveraging Python for Spatial Data Science
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15fN9ftEmZO__IKczAThKNC1w8sX5nF55#scrollTo=ru4cNvvjaXKz)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)  
 
 
-workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Science Bootcamp 2023, Washington D.C
+Workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Science Bootcamp 2023, Washington D.C
 
 
 <p align="center">
@@ -29,7 +29,7 @@ workshop on Leveraging Python for Spatial Data Science @ CARTO Spatial Data Scie
 
 ### Follow along on Google Colab or binder (recommended)
 #### Colab 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15fN9ftEmZO__IKczAThKNC1w8sX5nF55#scrollTo=ru4cNvvjaXKz)
 
 #### Binder 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
